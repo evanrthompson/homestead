@@ -11,3 +11,6 @@ phpunit.xml
 /user-customizations.sh
 reload_homestead_script.sh
 ReloadHomestead.app
+.phpunit.result.cache
+wsl-init.log
+.backup/*

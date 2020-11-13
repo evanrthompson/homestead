@@ -4,6 +4,7 @@ alias ...="cd ../.."
 alias h='cd ~'
 alias c='clear'
 alias art=artisan
+alias cda='composer dump-autoload'
 
 alias codecept='vendor/bin/codecept'
 alias phpspec='vendor/bin/phpspec'

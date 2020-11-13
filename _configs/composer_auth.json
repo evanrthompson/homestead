@@ -1,0 +1,11 @@
+
+{
+    "bitbucket-oauth": {},
+    "github-oauth": {
+        "github.com": "f9a272b34f28a506dde8c417b8d3db5c2a1ee002"},
+    "gitlab-oauth": {},
+    "gitlab-token": {},
+    "http-basic": {},
+    "bearer": {}
+}
+
