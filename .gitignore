@@ -14,3 +14,4 @@ ReloadHomestead.app
 .phpunit.result.cache
 wsl-init.log
 .backup/*
+_certs/*
