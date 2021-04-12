@@ -12,4 +12,6 @@ phpunit.xml
 .phpunit.result.cache
 wsl-init.log
 .backup/*
+
 _certs/*
+_configs/composer_auth.json
